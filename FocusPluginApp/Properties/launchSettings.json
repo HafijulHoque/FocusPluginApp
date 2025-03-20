@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "FocusPluginApp": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
